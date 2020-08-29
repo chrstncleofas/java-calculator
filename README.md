@@ -1,2 +1,2 @@
 # java-calculator
-install Inteli J IDEA
+Install Inteli-J-IDEa
